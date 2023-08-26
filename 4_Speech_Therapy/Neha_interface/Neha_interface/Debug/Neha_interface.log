@@ -1,0 +1,212 @@
+﻿Build started 16-11-2022 18:22:30.
+     1>Project "C:\Users\kbkar\OneDrive\Desktop\4_Speech_Therapy\4_Speech_Therapy\Neha_interface\Neha_interface\Neha_interface.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Neha_interface.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         D:\vsstudio\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Neha_interface.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt Neha_interface.cpp /clr:nostdlib 
+         Neha_interface.cpp
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(43): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(198): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(204): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(242): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(245): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(247): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(253): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(254): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(255): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(257): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(479): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(480): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(481): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(482): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(511): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(517): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(582): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(584): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(587): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(593): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(594): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(595): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(597): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(603): warning C4005: 'N' : macro redefinition
+                 c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(19) : see previous definition of 'N'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(624): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(636): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(645): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(657): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(677): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(686): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1096): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1097): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1098): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1099): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1105): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1113): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1119): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1123): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1160): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1161): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1162): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1163): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1358): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1359): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1360): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1361): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1367): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1375): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1381): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1395): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1396): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1397): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1398): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1404): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1413): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1419): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1470): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1471): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1472): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1473): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1479): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1487): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1493): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1505): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1506): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1507): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1508): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1514): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1539): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1541): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1542): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1544): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1545): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1546): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1548): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1571): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1573): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1574): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1576): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1586): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1588): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1589): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1621): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1622): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1623): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1624): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1698): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\test.h(1700): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\Form1.h(280): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\kbkar\onedrive\desktop\4_speech_therapy\4_speech_therapy\neha_interface\neha_interface\Form1.h(321): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\vsstudio\VC\include\stdio.h(371) : see declaration of 'sprintf'
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         D:\vsstudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\kbkar\OneDrive\Desktop\4_Speech_Therapy\4_Speech_Therapy\Neha_interface\Debug\Neha_interface.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Neha_interface.Form1.resources /MANIFEST /ManifestFile:"Debug\Neha_interface.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\kbkar\OneDrive\Desktop\4_Speech_Therapy\4_Speech_Therapy\Neha_interface\Debug\Neha_interface.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\Neha_interface.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         Neha_interface.vcxproj -> C:\Users\kbkar\OneDrive\Desktop\4_Speech_Therapy\4_Speech_Therapy\Neha_interface\Debug\Neha_interface.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\kbkar\OneDrive\Desktop\4_Speech_Therapy\4_Speech_Therapy\Neha_interface\Debug\Neha_interface.exe;#1" /manifest Debug\Neha_interface.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Neha_interface.unsuccessfulbuild".
+         Touching "Debug\Neha_interface.lastbuildstate".
+     1>Done Building Project "C:\Users\kbkar\OneDrive\Desktop\4_Speech_Therapy\4_Speech_Therapy\Neha_interface\Neha_interface\Neha_interface.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.34
